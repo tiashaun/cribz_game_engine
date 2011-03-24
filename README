@@ -1,0 +1,28 @@
+This is my first Game and My first real C++ project.
+
+This is an incomplete game engine tht uses SDL as the graphics libary.
+
+There are some bugs at the moment.
+
+Bugs:
+	Can use upto a Gigabyte of memory:
+		Probably Due to it being Incomplete
+		OR 
+		Some huge Memory Leaks
+
+	Screen Blank:
+		This after a while will take over
+		the screen and wont render the background and the player.
+
+	Player Movement:
+		No real bugs here it just lags a bit.
+		No support for holding down keys.
+
+
+Missing:
+	Game States
+	Fps implimentation
+	Physics
+	Proper player movement
+	solid ground
+	etc.
