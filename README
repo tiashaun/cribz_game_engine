@@ -1,3 +1,7 @@
+Cribz Game Engine C++
+Written By: Christopher Tombleson
+Copyright 2011 Cribz Network
+
 This is my first Game and My first real C++ project.
 
 This is an incomplete game engine tht uses SDL as the graphics libary.
